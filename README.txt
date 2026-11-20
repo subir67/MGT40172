@@ -1,0 +1,1 @@
+AURELIA five-page website prototype. Open index.html in a browser and use the top navigation. This is a front-end demo: checkout, accounts, sensor readings and email are not connected. Product images and fonts load from the internet. Prices and app data are illustrative.
